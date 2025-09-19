@@ -1,0 +1,50 @@
+name: del.rice
+description: coherent
+version: 0.0.1
+author: moxydv7y.nlhnb5ry@f7qpuubh.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: delrice
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:34:19'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:34:19'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:34:19.41915Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '420920417'
+  createdAt: '2025-09-19T23:34:19.41915Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
